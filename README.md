@@ -5,7 +5,7 @@
 ##### El siguiente proyecto consistió en elegir una página web y crear una copia idéntica del estilo del sitio, todo esto sin utilizar algún boiler-plate. Yo escogí la página de [Duolingo for Schools](https://schools.duolingo.com/)
 
 ### Tecnologías implementadas
-##### * Unordered list can use asterisks
+* Unordered list can use asterisks
 
 ### Instalación y uso
 ##### Al ya haber descargado las carpetas de este repositorio (y tomando en cuenta que ya se tiene node instalado), correr el siguiente comando:
