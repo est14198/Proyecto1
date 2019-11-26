@@ -5,7 +5,7 @@
 ##### El siguiente proyecto consistió en elegir una página web y crear una copia idéntica del estilo del sitio, todo esto sin utilizar algún boiler-plate. Yo escogí la página de [Duolingo for Schools](https://schools.duolingo.com/)
 
 ### Tecnologías implementadas
-* React
+####* React
 * Babel
 * Webpack
   * babel-loader
